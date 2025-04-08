@@ -2,3 +2,6 @@ streamlit==1.24.0
 torch==2.6.0
 transformers==4.44.2
 safetensors
+sentencepiece
+datasets
+accelerate==0.20.3
